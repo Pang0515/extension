@@ -1,0 +1,22 @@
+body {
+    width: 350px;
+    height: 350px;
+    margin: 0px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://www.hko.gov.hk/tc/wxinfo/currwx/flw_description/images/overcast.png');
+    background-position: center;
+    background-size: auto;
+    background-repeat:no-repeat;
+    border: 5px solid #539dff;
+    background-color: rgb(225, 225, 225);
+}
+
+p {
+    color: rgb(0, 26, 112);
+    font-weight:bold;
+    font-size: 14px;
+}
